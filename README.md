@@ -49,7 +49,7 @@ That said, there's a lot more of analysis to be done!
 There's a [Jupyter notebook](#essentials) containing the full analysis.  
 It goes hand-by-hand with [*helpers.py*](#essentials), an additional Python file where I stored my helper functions. Without it, little to no analysis can be done.  
   
-The third member of this trinity is the folder [***data***](#essentials). It contains two *csv* files corresponding to the public data I used for the analysis and the schema relating column names from the data to the questions asked in the survey.The last one is a README file with more information about the data.  
+The third member of this trinity is the folder [***data***](#essentials). It contains two *csv* files corresponding to the public data for women developers I used for the analysis and the schema relating column names from the data to the questions asked in the survey.The last one is a README file with more information about the data.  
   
 The folder [***img*** and *women_SO_notes.txt*](#disposables) are files produced by the notebook. They may change if you change parts of the analysis. You can delete them if forking the project, it's totally cool :)
 
