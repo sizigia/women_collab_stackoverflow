@@ -56,7 +56,7 @@ The folder [***img*** and *women_SO_notes.txt*](#disposables) are files produced
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://www.faustinamaria.com/women-stackoverflow).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
