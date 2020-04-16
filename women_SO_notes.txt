@@ -1,0 +1,24 @@
+The survey had 88883 participants. 
+Approximately 91.2% of the participants were men, 7.4% were women, and 1.3% as non-binary, genderqueer, or gender non-conforming. 
+The survey had 6344 of 88883 participants that identified themselves as women (7.1%), and 3477 (3.9%) that didn't provide information. 
+From the 6344 women developers, 112 didn't provide information on this question, and approximately 73.8% were employed full-time, 8.3% were not employed, but looking for work, and 6.7% were employed part-time. 
+5436 out of 6344 women developers (85.7% of them) were actively working at the moment of participating in the survey. 
+From the 5436 women developers participating in the survey, 552 didn't provide information on this question. From the 4884 who did answered, approximately 78.0% answered "I am a developer by profession", 11.8% said "I am not primarily a developer, but I write code sometimes as part of my work", and 6.7% answered "I am a student who is learning to code". 
+From the 4848 women developers, 84 didn't provide information on this question, approximately 54.4% had a Bachelor’s degree (BA, BS, B.Eng., etc.), 27.2% a Master’s degree (MA, MS, M.Eng., MBA, etc.), and 7.6% had Some college/university study without earning a degree. 
+The 4848 actively working women developers that participated in the surveyand gave some kind of information (0 didn't provide information about their residence) about their education were predominantly from United States (34.8%),India (8.6%), United Kingdom (7.3%), Canada (4.8%), and Germany (4.7%). 
+The 4344 actively working women developers that participated in the survey, gave information about their education and ethnicity were predominantly White or of European descents (67.2%), South Asian (8.3%), East Asian (7.1%), Hispanic or Latino/Latina (6.4%), and Black or of African descents (4.7%). 504 didn't provide information. 
+When asked "what social media site do you use the most?" to 4848 women developers, 626 didn't provide one of/both their age and social media site of preference. From the 4243 who provided the information, 
+ - 1650 women, younger than 18 years old, said YouTube (38.89%),
+ - 812 women, between 18 and 25 years old, said Instagram (19.15%), 
+ - 888 women, between 25 and 32 years old, said Instagram (20.93%), 
+ - 1045 women, between 32 and 39 years old, said Twitter (24.64%), 
+ - 1445 women, between 39 and 46 years old, said Twitter (34.07%), 
+ - 1324 women, between 46 and 53 years old, said Twitter (31.21%), 
+ - 1265 women, older than 53 years old, site of choice was Twitter (29.82%). 
+When asked about their participation in Stack Overflow, 1837 actively working women developers provided the following insights:
+ - 44.86% devs with 12 or more years of professional experience before their first visit, said to visit SO less than once per month or monthly,
+ - 41.42% devs with 1 to almost 12 years of professional experience before their first visit, said to visit SO less than once per month or monthly,
+ - 39.2% devs who visited SO for the first time around the same time they started to work as developers, said to visit SO less than once per month or monthly,
+ - 37.34% devs who visited SO for the first time around the time they started to work as developers and as far as 3 years before that moment, said to visit SO less than once per month or monthly,
+ - 42.44% devs who visited SO for the first time around 3 years before they started to work as developers and as far as 5 years before that moment, said to visit SO less than once per month or monthly,
+ - 40.31% devs who visited SO for the first time more than 5 years before they started to work a developers, said to visit SO less than once per month or monthly. 
