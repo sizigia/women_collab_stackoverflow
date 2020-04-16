@@ -33,7 +33,7 @@ def search_question(schema, search_term):
     return questions
 
 
-def get_counts(pd_serie):
+def get_probs(pd_serie):
     """
     Takes in a column with numeric values and returns the percentage of unique values in the dataset.
     
