@@ -19,18 +19,18 @@ I used the following libraries:
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interested in using Stack Overflow Developer Survey data from 2019 related to women developers, specially those actively working at the time of the survey, to gain insights on:
+For this project, I was interested in using Stack Overflow Developer Survey data from 2019 related to women developers, especially those actively working at the time of the survey, to gain insights on:
 
 1. What kind of employment was predominant among the women participants?
 2. Were they working as developers or similar?
 3. What kind of education most of them had?
 4. What are the top 10 countries these women are located?
 5. Was there some relation between their ethnicity and the country they were located?
-6. What was the social media site of choice accordingnly with their age?
+6. What was the social media site of choice accordingly to their age?
 7. What was the frequency of participation in Stack Overflow?
 
-This approach is by far non-comprehensive and many of these question are merely an approximation to reality.  
-That said, there's a lot more of analysis to be done!  
+This approach is by far non-comprehensive, and many of these questions are merely an approximation to reality.  
+That said, there's a lot more analysis to do!  
 
 
 ## File Descriptions <a name="files"></a>
@@ -49,7 +49,7 @@ That said, there's a lot more of analysis to be done!
 There's a [Jupyter notebook](#essentials) containing the full analysis.  
 It goes hand-by-hand with [*helpers.py*](#essentials), an additional Python file where I stored my helper functions. Without it, little to no analysis can be done.  
   
-The third member of this trinity is the folder [***data***](#essentials). It contains two *csv* files corresponding to the public data for women developers I used for the analysis and the schema relating column names from the data to the questions asked in the survey.The last one is a README file with more information about the data.  
+The third member of this trinity is the folder [***data***](#essentials). It contains two *csv* files corresponding to the public data for women developers I used for the analysis and the schema relating column names from the data to the questions asked in the survey. The last one is a README file with more information about the data.  
   
 The folder [***img*** and *women_SO_notes.txt*](#disposables) are files produced by the notebook. They may change if you change parts of the analysis. You can delete them if forking the project, it's totally cool :)
 
